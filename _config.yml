@@ -1,7 +1,7 @@
 # Jekyll Defaults
 title: dev log
 description: A small and simple site to test out Jekyll.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 
 url: "https://filipeguerreiro.github.io/blog"
 github: http://github.com/filipeguerreiro/blog
