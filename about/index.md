@@ -3,16 +3,20 @@ layout: default
 title: about
 ---
 
-blueface is a minimalist Jekyll theme. It is responsive, generates JSON and RSS feeds on each build, and can be easily extended. It uses your system fonts alongside Open Sans, Droid Sans and Raleway from Google Fonts. Oh, and it has support for tags too.
 
-> It supports blockquotes, too.
+My name is Filipe Guerreiro and I am currently working as a Software Developer in the financial tech industry in Tokyo Japan.
 
-## blueface on the Internet
+I have spent the last 2+ years getting my hands dirty in back-end, API and end-to-end testing projects with a strong interest in database systems and data pipelines. 
+So far, I have experience working in small, agile teams building projects from scratch as well as maintaining existing legacy systems.
 
-* [blueface][github] on GitHub (Source Code)
-* [nolsigan][nolsigan] nolsigan.github.io
-* [rjsteckel][rjsteckel] data, beer, and stats
+I have several interests that I continue working on in my freetime. You may see these pop up from time to time alongside code-related posts!
 
-[github]: https://github.com/filipeGuerreiro/blog/
-[nolsigan]: http://nolsigan.github.io
-[rjsteckel]: http://rjsteckel.github.io
+Thanks for reading!
+
+## on the internet
+
+* [github][github] on GitHub
+* [linkedin][linkedin] on LinkedIn
+
+[github]: https://github.com/filipeGuerreiro
+[linkedin]: http://nolsigan.github.io
