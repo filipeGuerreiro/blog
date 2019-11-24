@@ -1,10 +1,10 @@
 # Jekyll Defaults
-title: blueface
-description: A small and simple site I made to test out Jekyll.
+title: dev log
+description: A small and simple site to test out Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
 
-url: "https://thien.github.io/blueface/"
-github: http://github.com/tnguyen/blueface
+url: "https://filipeguerreiro.github.io/blueface/"
+github: http://github.com/filipeguerreiro/blog
 highlighter: rouge
 markdown: kramdown
 permalink: /post/:title/
@@ -13,9 +13,9 @@ gems: [jekyll-paginate]
 paginate_path: "/page:num"
 rss_path: /feed.xml
 navigation:
-- text: About
+- text: about
   url: /about/
-- text: Archives
+- text: archives
   url: /archives/
-- text: Tags
+- text: tags
   url: /tags/
