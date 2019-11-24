@@ -16,6 +16,8 @@ Thanks for reading!
 
 * on [github][github]
 * on [linkedin][linkedin]
+* on [gmail][gmail]
 
 [github]: https://github.com/filipeGuerreiro
-[linkedin]: http://nolsigan.github.io
+[linkedin]: https://www.linkedin.com/in/filipe-guerreiro/
+[gmail]: mailto:filipe.m.guerreiro@gmail.com
