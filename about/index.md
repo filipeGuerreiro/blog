@@ -3,7 +3,6 @@ layout: default
 title: about
 ---
 
-
 My name is Filipe Guerreiro and I am currently working as a Software Developer in the financial tech industry in Tokyo Japan.
 
 I have spent the last 2+ years getting my hands dirty in back-end, API and end-to-end testing projects with a strong interest in database systems and data pipelines. 
@@ -15,8 +14,8 @@ Thanks for reading!
 
 ## on the internet
 
-* [github][github] on GitHub
-* [linkedin][linkedin] on LinkedIn
+* on [github][github]
+* on [linkedin][linkedin]
 
 [github]: https://github.com/filipeGuerreiro
 [linkedin]: http://nolsigan.github.io
