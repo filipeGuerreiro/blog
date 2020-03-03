@@ -1,5 +1,5 @@
 # Jekyll Defaults
-title: dev log
+title: 日葡 dev log
 description: A small and simple site to test out Jekyll.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 
