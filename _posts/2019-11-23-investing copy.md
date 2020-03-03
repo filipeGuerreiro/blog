@@ -2,10 +2,10 @@
 layout: post
 date: 2019-11-23
 title: investing in japan
-tags: [japan, finance]
+tags: [japan, finance, personal]
 ---
 
-under construction...
+[TODO]
 
 > steps:
 
