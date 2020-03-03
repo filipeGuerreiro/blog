@@ -1,9 +1,9 @@
 # Jekyll Defaults
-title: 日葡 dev log
-description: A small and simple site to test out Jekyll.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+title: 日葡日記
+description: A journal on work, side projects and personal endeavors.
+baseurl: "/" # the subpath of your site, e.g. /blog
 
-url: "https://filipeguerreiro.github.io/blog"
+url: "https://filipeguerreiro.github.io/"
 github: http://github.com/filipeguerreiro/blog
 highlighter: rouge
 markdown: kramdown
