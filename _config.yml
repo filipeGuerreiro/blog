@@ -1,9 +1,9 @@
 # Jekyll Defaults
 title: 日葡日記
 description: A journal on work, side projects and personal endeavors.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 
-url: "https://filipeguerreiro.github.io/"
+url: "https://filipeguerreiro.github.io/blog"
 github: http://github.com/filipeguerreiro/blog
 highlighter: rouge
 markdown: kramdown
